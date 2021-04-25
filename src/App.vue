@@ -22,7 +22,7 @@ const makeTemplateMixin = {
       return window.templateProps || {
         headline: "This is my first test",
         showLogos: true,
-        backgroundImage: '',
+        backgroundImage: ''
       };
     }
   }
