@@ -75,7 +75,7 @@ export default {
     line-height: 100%;
     color: #1f2a44;
     text-align: center;
-    text-shadow: 2px 2px 1px rgba(255, 255, 255, 1);
+    text-shadow: 0 0 1px white, 0 0 1px white, 0 0 1px white, 0 0 1px white;
     width: 100%;
     padding: 0 2rem;
     z-index: 1;
