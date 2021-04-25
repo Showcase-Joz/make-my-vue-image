@@ -7,7 +7,10 @@
 
     <h1>{{ makeTemplateProps.headline }}</h1>
 
-    <Shapes />
+    <div v-if="makeTemplateProps.showShapes">
+      <Shapes />
+    </div>
+    
 
   </div>
 </template>
@@ -22,6 +25,7 @@ const makeTemplateMixin = {
       return window.templateProps || {
         headline: "This is my first vue of make!",
         showLogos: true,
+        showShapes: false,
         backgroundImage: ''
       };
     }
