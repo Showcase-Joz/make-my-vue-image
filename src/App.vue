@@ -22,7 +22,7 @@ const makeTemplateMixin = {
       return window.templateProps || {
         headline: "This is my first test",
         showLogos: true,
-        backgroundImage: 'https://lh3.googleusercontent.com/eG1k8dH0SSttV8wKD5sfcizhUNeprz1ST1RdL1rkCTqJ0EedRvAZrYp7YNt_PClLfI9F_mdqeSW6NBLB_TVb-G6_ik-426IZ-lzSMDZ-ywuc6a_dloTsxh3dJPkP6H_i03uV7NFM3caNiEKSBMG3Ln34cItcSDfoHWIBenbziAieX2klTQEcquR31iAG1pZOYKWeynTRC9I-GB6M9A7L42UYcLuTVvQdSv8Fw8skk12Ybfzj08Iqd72_WnhCNsFo0SUw9U2_W5bugsfgqWKQdI2cBi-6I0HFTwW4YzA17D7dyFziBAyQxWCWwCB5S1A08W1TnvXa-NbcJapxudjjgNal7wYYOfvACQ3cm01B7VZ0RUuTa-W8GhJG9KTAXKlpDvFd812DlAo02lzIYhYVW-5lEfu5Ucw93KLf8QYXb07h1RTZNCXmLLc8lFhgRa6ttNfMv0HoXWn3IpbUBDOyQIOwCVMdf-hWAhj7AG1iOUbkCEzBDTsr3Cvi9ZONIiFAFA8P-kQQmKYMMvkRSbjor544B96fPPyFQGUkWNTILjajrsc04dUR211-rjgcfDi9SaUcEfw75mAuQ_BmMg3y7LNlntwSo8YxU88AMUOArTeHcmeW5e427GgsqYBuW5mxjW-80cMqCrSu2zBsTXYap9jvf_BJUixkS2iXtRIhv8DOjfwnLSEDricNQIV3W124puTUq8QXc4jHBjwRR37aN_s=w1000-no-tmp.jpg',
+        backgroundImage: '',
       };
     }
   }
