@@ -18,7 +18,7 @@
     grid-gap: 1rem;
     grid-template-columns: 1fr 0.25fr 1fr;
     place-items: center;
-    background-color: #1f2a44;
+    background-color: #ffffff;
     padding: clamp( 0.5rem, 5vw, 2rem);
     border-radius: 3rem;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
