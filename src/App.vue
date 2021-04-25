@@ -20,7 +20,7 @@ const makeTemplateMixin = {
   computed: {
     makeTemplateProps() {
       return window.templateProps || {
-        headline: "This is my first test",
+        headline: "This is my first vue of make!",
         showLogos: true,
         backgroundImage: ''
       };
