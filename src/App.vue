@@ -69,7 +69,7 @@ export default {
     font-size: clamp( 16px, 10vh, 250px);
     font-weight: 700;
     line-height: 100%;
-    color: #1f2a44;
+    color: #ffffff;
     text-align: center;
     width: 100%;
     padding: 0 2rem;
